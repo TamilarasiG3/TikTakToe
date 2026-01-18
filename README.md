@@ -1,4 +1,4 @@
-🎮 Tic Tac Toe Game (Python)
+# Tic Tac Toe Game (Python)
 
 A simple Tic Tac Toe game built using Python.
 This project is beginner-friendly and helps understand game logic, loops, conditions, and functions in Python.

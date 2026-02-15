@@ -21,7 +21,7 @@ Python 3
 
 (No external libraries required)
 
-📂 Project Structure
+# 📂 Project Structure
 TikTakToe/
 │
 ├── tiktaktoe.py

@@ -1,9 +1,9 @@
-# Tic Tac Toe Game (Python)
+# 🎮Tic Tac Toe Game (Python)
 
 A simple Tic Tac Toe game built using Python.
 This project is beginner-friendly and helps understand game logic, loops, conditions, and functions in Python.
 
-# 🚀 Features
+## 🚀 Features
 
 👥 Two-player mode (Player X vs Player O)
 
@@ -15,13 +15,13 @@ This project is beginner-friendly and helps understand game logic, loops, condit
 
 🖥️ Runs in terminal / console
 
-# 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Python 3
 
 (No external libraries required)
 
-# 📂 Project Structure
+## 📂 Project Structure
 TikTakToe/
 │
 ├── tiktaktoe.py
@@ -37,7 +37,7 @@ cd TikTakToe
 3️⃣ Run the game
 python tiktaktoe.py
 
-# 🧠 Game Rules
+## 🧠 Game Rules
 
 Player X goes first.
 
@@ -47,14 +47,14 @@ First player to get 3 in a row (horizontal, vertical, or diagonal) wins.
 
 If all positions are filled and no one wins, the game ends in a draw.
 
-# 🎯 Sample Board Layout
+## 🎯 Sample Board Layout
  1 | 2 | 3
 ---+---+---
  4 | 5 | 6
 ---+---+---
  7 | 8 | 9
 
-# 🌱 Future Improvements
+## 🌱 Future Improvements
 
 Single-player mode (AI opponent)
 
@@ -64,7 +64,7 @@ Score tracking
 
 Input validation improvements
 
-# 👩‍💻 Author
+## 👩‍💻 Author
 
 # Tamilarasi G
 GitHub: @TamilarasiG3

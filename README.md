@@ -66,9 +66,9 @@ Input validation improvements
 
 ## 👩‍💻 Author
 
-# Tamilarasi G
+## Tamilarasi G
 GitHub: @TamilarasiG3
 
-# 📜 License
+## 📜 License
 
 This project is open-source and free to use for learning and personal projects.
